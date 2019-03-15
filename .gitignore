@@ -1,0 +1,5 @@
+data/ALL*
+.ipynb_checkpoints/
+writeup/__MACOSX/*
+.DS_Store
+.Rhistory
