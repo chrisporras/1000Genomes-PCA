@@ -1,7 +1,7 @@
 # 1000Genomes-PCA
-Repo for BIOS 26211 final project to perform PCA on 1000 Genomes Project data. 
+Repo for to perform PCA and exploratory analysis on 1000 Genomes Project data.
 
-A collaboration between Christian Porras and Bruno Petrucci at The University of Chicago.
+Maintained by Christian Porras at the University of Chicago.
 
 References:
 * Novembre et al (https://www.nature.com/articles/nature07331)
@@ -14,7 +14,7 @@ References:
 * Spatial sampling (https://www.biorxiv.org/content/10.1101/004713v1.full)
 * Spatial ancestry (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4184261/)
 
-// Useful tools 
+// Useful tools
 * scikit-allel (https://scikit-allel.readthedocs.io/en/stable/?fbclid=IwAR2DoVWFH1szVNfBUnrPhTfbn4eRUPxhuIJfxzsjDHRZ1h4gaUqHyW3ZKsU)
 * 1000 genomes data (ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/working/)
 * SNP coding example worksheet (https://botany.natur.cuni.cz/hodnocenidat/Lesson_05_tutorial.pdf)
