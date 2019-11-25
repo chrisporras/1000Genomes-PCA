@@ -1,4 +1,4 @@
-data/ALL*
+data/vcf/*
 .ipynb_checkpoints/
 writeup/__MACOSX/*
 .DS_Store
