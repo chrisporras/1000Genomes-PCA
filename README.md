@@ -1,5 +1,5 @@
 # 1000Genomes-PCA
-Repo for to perform PCA and exploratory analysis on 1000 Genomes Project data.
+Repo for exploratory analysis on 1000 Genomes Project data.
 
 Maintained by Christian Porras at the University of Chicago.
 
