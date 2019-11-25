@@ -1,0 +1,1 @@
+['calldata/GT', 'samples', 'variants/ALT', 'variants/CHROM', 'variants/FILTER_PASS', 'variants/ID', 'variants/POS', 'variants/QUAL', 'variants/REF']
